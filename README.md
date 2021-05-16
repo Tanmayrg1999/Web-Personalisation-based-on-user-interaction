@@ -145,7 +145,7 @@ main problem in the system is :
 ## System Designing/Modeling
 
 ### Module 1 - 
-Collection of data ( by web scraping ) - Web Scraping (also termed Screen
+Collection of data ( Web Scraping ) - Web Scraping (also termed Screen
 Scraping, Web Data Extraction, Web Harvesting etc.) is a technique employed to
 extract large amounts of data from websites
 
