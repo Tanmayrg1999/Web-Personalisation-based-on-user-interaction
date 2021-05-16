@@ -111,6 +111,7 @@ also help them in personalizing the information with some external help such as
 recommendation system, search feedback, pages indexing etc.
 After studying and analyzing many paper and articles on web, we found that the
 main problem in the system is :
+   
    a. Optimized Landing Pages
    
    b. More Relevant Content Recommendations
