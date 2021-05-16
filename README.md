@@ -75,6 +75,7 @@ at its own cost for the users.
 
 ## THEORY AND RELEVANCE
 1. Web Scraping:
+
 Web scraping is the process of collection of structured web data in an structured fashion. It’s also called web data extraction. There are many use cases of web scraping
 which include price intelligence, monitoring new, price monitoring, generation of lead
 and market research among many others. Web scraping a web page involves extracting data and results from it that are relevant. Therefore, web crawling is one of the
@@ -92,7 +93,9 @@ steps and actions such that web browsing and searching gets automated. Some webs
 8extract this huge amount of data. Web Scraping extracts this huge amount of data
 and then exports it to a format that is more convenient for the user ( For Eg. Excel,
 pdf etc).
+
 2. Web-Usage Mining :
+
 Web usage mining is the application of data mining techniques to discover interesting usage pattern from the Web data in order to study and better satisfy the needs
 of Web-based applications. Usage data captures the identity or origin of Web users
 along with their browsing behavior at a Web site.Web usage mining is a subcategory
@@ -104,14 +107,32 @@ identity or emergence of Web users along with their behavior of how they browse
 and browsing history, at browser level as well as website level
 Web usage mining can be classified depending on the kind of data-usage considered:
 
-a. Web server data: The user information are collected by the Web server.The typical user data includes IP address of site, page data etc.
+    a. Web server data: The user information are collected by the Web server.The typical user data includes IP address of site, page data etc.
 
-b. Application server data: Many Commercial application servers have significant
+    b. Application server data: Many Commercial application servers have significant
 functionality so as to enable applications to be built on top of them with minimal
 effort. A key feature of this is the ability to understand various kinds of business
 events and thus log them in application server data.
 
-c. Application level data: Many new kinds of events and actions can be defined in an
+    c. Application level data: Many new kinds of events and actions can be defined in an
 application, and thus logging can be turned manually on for them thus generating
 past searches of these specially defined actions. Many back-end application requires
 a combo of one or more of these techniques applied.
+
+3. Web personalization :
+
+Web Personalisation or Personalisation of information is a web mining technique
+which helps the customers to find relevant information to the searches they make on
+the internet. The main focus of this project is on providing the users the provision
+of bettering their web searches and personalizing according to their experience and
+also help them in personalizing the information with some external help such as
+recommendation system, search feedback, pages indexing etc.
+After studying and analyzing many paper and articles on web, we found that the
+main problem in the system is :
+
+      a. Optimized Landing Pages
+      b. More Relevant Content Recommendations
+      c. Increase in User Engagement on the Website.
+      d. Unsatisfactory Search Results
+      e. Inefficient methods of getting useful information
+      f. Reduce the time required for finding useful results
