@@ -179,7 +179,7 @@ Analysing and pre-processing the data -
 ### Module 3 - 
 Personalization in PIR systems is generally performed by adapting the
 query and/or the results. Query adaptation: Query adaptation attempts to expand
-the terms of the user’s query with other terms, with the aim of retrieving more rel12evant results.
+the terms of the user’s query with other terms, with the aim of retrieving more relevant results.
 
 1. processing the user model
 
@@ -203,7 +203,7 @@ Algorithm Used
 Pseudo relevance feedback , also known as blind relevance feedback , provides a
 method for automatic local analysis. It automates the manual part of relevance
 feedback, so that the user gets improved retrieval performance without an extended
-interaction. The method is to do normal retrieval to find an initial set of most relevant documents, to then assume that the top ranked documents are relevant, and
+interaction. The method is to do normal retrieval to find an initial set of most relevant documents, to then assume that the top ranked documents are relevant, and
 finally to do relevance feedback as before under this assumption.. The idea behind
 relevance feedback is to take the results that are initially returned from a given query,
 to gather user feedback, and to use information about whether or not those results
@@ -214,5 +214,98 @@ of feedback: explicit feedback, implicit feedback, and blind or ”pseudo” fee
 PageRank (PR) is an algorithm used by Google Search to rank websites in their
 search engine results. PageRank is a way of measuring the importance of website
 pages. PageRank works by counting the number and quality of links to a page to
-determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other
+determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other
 websites.
+
+## SYSTEM DIAGRAM
+![sys](https://user-images.githubusercontent.com/53641559/118393967-7a018380-b65f-11eb-96bd-4bcc344ce378.png)
+
+## USE CASE DIAGRAM
+![used](https://user-images.githubusercontent.com/53641559/118393928-4161aa00-b65f-11eb-8d52-efd35b0183a6.jpg)
+
+
+## RESULT
+In our project we implemented a personalization system in which user will browse
+the content according to their requirement then from the searched information they
+will provide feedback for the relevance of that where the data will be processed
+through various stages as editorial planning, content reusing ,navigation and content
+hierarchy, Users flow and calls to action, content structure Taxonomy and Metadata
+,Content development and production .This will result in the customized data to the
+user.
+
+## CHALLLENGES OVERCOMED
+
+1. At first it was truly hard to pick what sort of savvy part to plan. I have no
+involvement with this kind of use at all and contemplating improvements without
+having a demo to test on is simply so troublesome.
+
+2. During the execution part, we invested a great deal of energy in finding out about
+Python libraries and develops that we did not have the foggiest idea yet, similar to
+strings, how to execute or do web scratching to get the connections out of a HTML
+page. Something else that I needed to gain without any preparation was the means
+by which to make a GUI in Python.
+
+3. Something irritating was the way that I needed to creep 10000 pages more than
+once, since I found in the pages different and wrong organizations. In the end the
+whole rundown of organizations that I needed to boycott had a size of 18 and it
+included .docx,.doc,.avi,.mp4 etc.
+
+## CONCLUSION
+In this venture we have given a far reaching audit of patterns and methods for
+Web personalization. Personalization from web mining has gotten heaps of interests in business as a skilled device to improve deals and hold clients, since, it can
+expands consumer loyaltyies by giving them customized items also, administrations.
+Web Personalization can likewise assist the organization with carrying out form to arrange strategy by interfacing clients necessities and inclinations straightforwardly
+to creation line and production network. Therefore the organization can profit by
+cost saving and effective use of assets. We have effectively rejected the information
+from various sources and finished all the preprocessing steps of information and the
+following step is to apply the reasonable calculation for web personalization.
+
+##  FUTURE SCOPE
+Personalization from web mining has gotten bunches of interest in business as a
+talented apparatus to improve deals and hold clients, since it can expand clients
+satisfaction group by furnishing them with customized items and administrations.
+Web Personalization can likewise assist the organization with carrying out form to arrange strategy by interfacing clients necessities and inclinations straightforwardly
+26to the creation line and supply chain. Therefore the organization can profit by cost
+saving and effective use of assets. We have done web personalisation on a college
+site which isn’t greatly utilized , we can stretch out our degree to business sites like
+Amazon, Flipkart and so on.
+
+## USER DOCUMENTATION
+
+Website Personalization is the process of creating customized experiences for visitors
+to a website. Rather than providing a single, broad experience, website personalization allows companies to present visitors with unique experiences tailored to their
+needs and desires.
+
+The major benefits of Personalization include –
+
+1. Online retailers can provide targeted offers to shoppers based on browsing behaviour.
+
+2. Travel sites can present visitors with promotions based on the current weather or
+season.
+
+3. News and other media outlets can surface specific videos to viewers based on
+where they live.
+
+The following things should be provided from the user side -
+   
+   1) Location - The country, region, or city a user is located in.
+   
+   2) Technology - A user’s device-type (desktop, mobile, tablet), operating system,
+browser, and even screen solution.
+   
+   3) Traffic Sources - The specific traffic source a user is visiting from, be it direct or
+paid, via referral search or social.
+   
+   4) 3 rd party data - Information about a user that has been collected from outside
+sources and aggregated by a DMP.
+   
+   5) Behaviour - Important user interactions such as clicks, add-to-carts, or purchase
+events, as well as the number of page views, URLs visited, and so on.
+   
+   6) Explicit data - CRM data that has been collected about a user or has been provided intentionally through surveys and registration forms.
+   
+   7) Time- The select dates, days of the week, or time of day the experience is to be
+served to a user.
+   
+   8) Current Page - The type of page a user lands on, whether its a specific URL, the
+homepage, a product detail page (PDP), or cart page
