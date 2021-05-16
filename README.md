@@ -190,7 +190,7 @@ through various stages as editorial planning, content reusing ,navigation and co
 hierarchy, Users flow and calls to action, content structure Taxonomy and Metadata
 ,Content development and production .This will result in the customized data to the
 user.
-## CHALLLENGES OVERCOMED
+## CHALLENGES OVERCOMED
 1. At first it was truly hard to pick what sort of savvy part to plan. I have no
 involvement with this kind of use at all and contemplating improvements without
 having a demo to test on is simply so troublesome.
