@@ -151,10 +151,11 @@ extract large amounts of data from websites
 
 1. We can gather information depending on three approaches:
 
-a. Information gathering approach(whether implicit/explicit)
-b. Type of information(users and their usage behavior when interacting with the
-system)
-b. Source of information(gathered at the server-side or at the client-side)
+   a. Information gathering approach(whether implicit/explicit)
+
+   b. Type of information(users and their usage behavior when interacting with the system)
+
+   c. Source of information(gathered at the server-side or at the client-side)
 
 2. In the implicit method, information is gathered unobtrusively, without any effort
 from the user.
@@ -195,3 +196,23 @@ the terms of the user’s query with other terms, with the aim of retrieving mor
 ### Module 4 - 
 Applying the suitable and most appropriate algorithm so that we could
 get more relevant and personalized results.
+
+Algorithm Used
+
+1. Pseudo -Relevance Feedback:
+Pseudo relevance feedback , also known as blind relevance feedback , provides a
+method for automatic local analysis. It automates the manual part of relevance
+feedback, so that the user gets improved retrieval performance without an extended
+interaction. The method is to do normal retrieval to find an initial set of most relevant documents, to then assume that the top ranked documents are relevant, and
+finally to do relevance feedback as before under this assumption.. The idea behind
+relevance feedback is to take the results that are initially returned from a given query,
+to gather user feedback, and to use information about whether or not those results
+are relevant to perform a new query. We can usefully distinguish between three types
+of feedback: explicit feedback, implicit feedback, and blind or ”pseudo” feedback.
+
+2. Page Rank Algorithm:
+PageRank (PR) is an algorithm used by Google Search to rank websites in their
+search engine results. PageRank is a way of measuring the importance of website
+pages. PageRank works by counting the number and quality of links to a page to
+determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other
+websites.
