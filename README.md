@@ -107,14 +107,14 @@ identity or emergence of Web users along with their behavior of how they browse
 and browsing history, at browser level as well as website level
 Web usage mining can be classified depending on the kind of data-usage considered:
 
-    a. Web server data: The user information are collected by the Web server.The typical user data includes IP address of site, page data etc.
+   a. Web server data: The user information are collected by the Web server.The typical user data includes IP address of site, page data etc.
 
-    b. Application server data: Many Commercial application servers have significant
+   b. Application server data: Many Commercial application servers have significant
 functionality so as to enable applications to be built on top of them with minimal
 effort. A key feature of this is the ability to understand various kinds of business
 events and thus log them in application server data.
 
-    c. Application level data: Many new kinds of events and actions can be defined in an
+   c. Application level data: Many new kinds of events and actions can be defined in an
 application, and thus logging can be turned manually on for them thus generating
 past searches of these specially defined actions. Many back-end application requires
 a combo of one or more of these techniques applied.
@@ -130,9 +130,9 @@ recommendation system, search feedback, pages indexing etc.
 After studying and analyzing many paper and articles on web, we found that the
 main problem in the system is :
 
-      a. Optimized Landing Pages
-      b. More Relevant Content Recommendations
-      c. Increase in User Engagement on the Website.
-      d. Unsatisfactory Search Results
-      e. Inefficient methods of getting useful information
-      f. Reduce the time required for finding useful results
+   a. Optimized Landing Pages
+   b. More Relevant Content Recommendations
+   c. Increase in User Engagement on the Website.
+   d. Unsatisfactory Search Results
+   e. Inefficient methods of getting useful information
+   f. Reduce the time required for finding useful results
