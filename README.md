@@ -131,8 +131,13 @@ After studying and analyzing many paper and articles on web, we found that the
 main problem in the system is :
 
    a. Optimized Landing Pages
+   
    b. More Relevant Content Recommendations
+   
    c. Increase in User Engagement on the Website.
+   
    d. Unsatisfactory Search Results
+   
    e. Inefficient methods of getting useful information
+   
    f. Reduce the time required for finding useful results
