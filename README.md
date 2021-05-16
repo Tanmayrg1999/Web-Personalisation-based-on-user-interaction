@@ -218,9 +218,11 @@ determine a rough estimate of how important the website is. The underlying assum
 websites.
 
 ## SYSTEM DIAGRAM
-![sys](https://user-images.githubusercontent.com/53641559/118393967-7a018380-b65f-11eb-96bd-4bcc344ce378.png width="400" height="790")
+
+<img src= "https://user-images.githubusercontent.com/53641559/118393967-7a018380-b65f-11eb-96bd-4bcc344ce378.png" width="800" height="600">
+
 ## USE CASE DIAGRAM
-![used](https://user-images.githubusercontent.com/53641559/118393928-4161aa00-b65f-11eb-8d52-efd35b0183a6.jpg)
+<img src="https://user-images.githubusercontent.com/53641559/118393928-4161aa00-b65f-11eb-8d52-efd35b0183a6.jpg"  width="800" height="1000">
 
 
 ## RESULT
