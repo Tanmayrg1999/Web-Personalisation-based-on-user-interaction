@@ -141,3 +141,57 @@ main problem in the system is :
    e. Inefficient methods of getting useful information
    
    f. Reduce the time required for finding useful results
+
+## System Designing/Modeling
+
+### Module 1 - 
+Collection of data ( by web scraping ) - Web Scraping (also termed Screen
+Scraping, Web Data Extraction, Web Harvesting etc.) is a technique employed to
+extract large amounts of data from websites
+
+1. We can gather information depending on three approaches:
+
+a. Information gathering approach(whether implicit/explicit)
+b. Type of information(users and their usage behavior when interacting with the
+system)
+b. Source of information(gathered at the server-side or at the client-side)
+
+2. In the implicit method, information is gathered unobtrusively, without any effort
+from the user.
+
+3. In the explicit method, the users themselves have to explicitly supply information
+to the system, whether positive or negative.
+
+### Module 2 -
+Analysing and pre-processing the data -
+
+1. Finding the missing values.
+
+2. Finding out inconsistent data.
+
+3. Dealing with Duplicate values.
+
+4. Data Transformation
+
+5. Data Reduction
+
+### Module 3 - 
+Personalization in PIR systems is generally performed by adapting the
+query and/or the results. Query adaptation: Query adaptation attempts to expand
+the terms of the user’s query with other terms, with the aim of retrieving more rel12evant results.
+
+1. processing the user model
+
+2. processing aggregate usage information
+
+3. pseudo-relevance feedback
+
+4. global analysis
+
+5. Explicit relevance feedback
+
+6. interactive query expansion
+
+### Module 4 - 
+Applying the suitable and most appropriate algorithm so that we could
+get more relevant and personalized results.
